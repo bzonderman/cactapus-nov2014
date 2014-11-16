@@ -1,0 +1,19 @@
+{
+  "name": "rebuild102814",
+  "version": "1.0.0",
+  "description": "The easiest way to get started with Foundation + Compass.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "go"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bzonderman/cactapus-nov2014.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bzonderman/cactapus-nov2014/issues"
+  },
+  "homepage": "https://github.com/bzonderman/cactapus-nov2014"
+}
