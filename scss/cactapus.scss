@@ -1,0 +1,81 @@
+@import "compass/css3";
+@import "foundation/components/top-bar";
+$rem-base: 16px;
+
+$font-stack: "Arimo", Arial, sans-serif;
+$font-regular: "Arimo", Arial, sans-serif;
+$font-bold: "ArimoBold", Arial, sans-serif;
+$font-headline: "Arimo", Verdana, sans-serif;
+$font-italic: "ArimoItalic", Arial, sans-serif;
+$font-bolditalic: "ArimoBoldItalic", Arial, sans-serif;
+
+$color-1dark: #40443d; // dark green
+$color-1med: #B0B9AE; // med green
+$color-1lt: #D7DECE; // lt green
+$color-2dark: #180c0b; // dark brown
+$color-2med: #6E5F4F; // med brown
+$color-2lt: #AC957E; // lt brown
+$color-2xlt: #e5ceb8; // extra light brown
+$color-accent1: #3C7D4E; //bright green
+$color-accent2: red; 
+
+$bgcolor: $color-1lt;
+$body-font-color: $color-2dark;
+$body-link-color: $color-accent1;
+
+@mixin text-shadow-lt{
+	text-shadow: 1px 1px 1px $color-1lt; 
+	filter: dropshadow(color=$color-1lt, offx=1, offy=1);
+}
+
+@mixin text-shadow-dark{
+	text-shadow: 2px 2px 1px black; 
+	filter: dropshadow(color=black, offx=1, offy=1);
+}
+
+@mixin letterpress($opacity){
+    text-shadow:white($opacity) 0 1px 0;
+}
+
+
+body {
+	font-family: $font-regular;
+	color: $body-font-color;
+	background-color: $bgcolor;
+}
+
+h1, h2, h3, h4, h5, h6, p { 
+	font-weight: normal;
+	font-family: $font-regular;
+	color: $body-font-color;
+}
+
+a:link { color: #6E5F4F; }
+a:link, a:hover, a:visited {text-decoration: none;}
+a:visited  { color: $color-accent1; }
+a:hover { color: $color-accent2;}
+
+body,td,th,p,div,li { font-size: 1em;  }
+p { line-height: 150%; }
+
+h1 { 
+	font-family: $font-bold; 
+	font-size: 1.5em;
+	margin-bottom: 15px;
+	@include text-shadow-dark;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+}
+
+h2 { font: 14px 'ArimoBold', verdana, sans-serif; 
+	letter-spacing:.02em; 
+	text-transform: uppercase;
+	margin-bottom: 0;
+	text-shadow: 1px 1px 1px #fff; 
+	filter: dropshadow(color=#ffffff, offx=1, offy=1);
+}
+
+// ---------------------------
+.top-bar {background-color: $color-1dark;}
+.contain-to-grid {background-color: $color-1dark;}
+.top-bar-section li:not(.has-form) a:not(.button) {background-color: $color-1dark;}
