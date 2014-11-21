@@ -1,0 +1,31 @@
+
+          <ul class="example-orbit-content" data-orbit>
+            <li data-orbit-slide="headline-1">
+              <div class="panel">
+                <h2>Introduction</h2>
+                <h3>Subheadline</h3>
+                <p>Since 1993 I've produced work ranging from dynamic web applications and interactive multimedia features, to marketing collateral. I can hand-code with the best of them but I thrive in a collaborative role as the bridge between developers and stakeholders. In that capacity, my big-picture understanding of both delivery mechanisms and business goals informs design decisions. Please read on to learn about what I can do for you.</p>
+              </div>
+            </li>
+            <li data-orbit-slide="headline-2">
+              <div class="panel">
+                <h2>Capabilities</h2>
+                <h3>Subheadline</h3>
+                <ul>
+                  <li>Full life cycle design from strategy through development</li>
+                  <li>Wireframes and interaction flows, UI/UX design, prototyping, visual design, layout, creation of assets, testing, documentation</li>
+                  <li>Front-end development within an Agile environment, integrating code with databases and software, collaboration with developers</li>
+                  <li>Project management, style guides, scoping, vendor relations, de-coding mixed messages, focusing on goals</li>
+                  <li>Art direction, logo design, graphic design through delivery of printed materials</li>
+                  <li>Content creation, multimedia features, photo shoots, copy writing, editing, multi-channel communications planning</li>
+                </ul>
+              </div>
+            </li>
+            <li data-orbit-slide="headline-3">
+              <div class="panel">
+                <h2>Deliverables</h2>
+                <h3>Subheadline</h3>
+                <p>Web application UI, websites, multimedia galleries, interactive presentations, icons, animations, style guides, logos, landing pages, email newsletters, collateral, publications, signage, annual reports, nocino</p>
+              </div>
+            </li>
+          </ul>

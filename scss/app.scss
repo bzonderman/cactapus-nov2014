@@ -3,6 +3,9 @@
 @import "cactapus";
 @import "fonts";
 @import "components/top-bar"; 
+@import "components/tooltips";
+@import "components/global";
+@import "components/offcanvas";
 
 // Or selectively include components
 // @import
@@ -36,8 +39,6 @@
 //   "foundation/components/tables",
 //   "foundation/components/tabs",
 //   "foundation/components/thumbs",
-//   "foundation/components/tooltips",
 //   "foundation/components/top-bar",
 //   "foundation/components/type",
-//   "foundation/components/offcanvas",
 //   "foundation/components/visibility";

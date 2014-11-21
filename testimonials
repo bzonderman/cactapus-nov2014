@@ -1,0 +1,79 @@
+
+    <!-- Testimonials -->
+    <div class="testimonial-wrap">
+      <div class="row">
+        <div class="large-12 columns centered-text">
+          <h2>Testimonials</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="large-4 medium-6 small-12 columns testimonial">
+          <div class="quote">
+            <p>Beth is outstanding. She does it all and with a smart, gorgeous aesthetic. Her work has so much personality, but it doesn't all say "Beth"; she really gets at the heart of her clients and makes the designs speak for them. Plus, she's great to work with.</p>
+          </div>
+          <div class="testimonial-client">
+            <div class="photo"> </div>
+            <p>Managing Editor, </p>
+            <p>VIA Magazine</p>
+          </div>
+        </div>
+
+        <div class="large-4 medium-6 small-12 columns testimonial">
+          <div class="quote">
+            <p>I just want to add my thanks for all the work you've done over the years. I've really enjoyed collaborating with such a smart, reliable, and unflaggingly cordial person. You have been so reliable, efficient, and great to work with.</p>
+          </div>
+          <div class="testimonial-client">
+            <div class="photo"> </div>
+            <p>Publications Director</p>
+            <p>UC Berkeley Art Museum and Pacific Film Archive</p>
+          </div>
+        </div>
+
+        <div class="large-4 medium-6 small-12 columns testimonial">
+          <div class="quote">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ultrices, elit sed faucibus pharetra, diam mauris bibendum orci, sit amet ullamcorper purus dui sit amet augue. Donec aliquet diam ut neque mattis, eu tristique sem rutrum.  </p>
+          </div>
+          <div class="testimonial-client">
+            <div class="photo"> </div>
+            <p>John Doe</p>
+            <p>Important person, some Company</p>
+          </div>
+        </div>
+      </div>
+      </div>              
+      <div class="testimonial-wrap">
+      <div class="row">
+        <div class="large-4 medium-6  small-12 columns testimonial">
+          <div class="quote">
+            <p>Beth is outstanding. She does it all and with a smart, gorgeous aesthetic. Her work has so much personality, but it doesn't all say "Beth"; she really gets at the heart of her clients and makes the designs speak for them. Plus, she's great to work with.</p>
+          </div>
+          <div class="testimonial-client">
+            <div class="photo"> </div>
+            <p>Managing Editor, </p>
+            <p>VIA Magazine</p>
+          </div>
+        </div>
+
+        <div class="large-8 medium-8 small-12 columns testimonial">
+          <div class="quote">
+            <p>I just want to add my thanks for all the work you've done over the years. I've really enjoyed collaborating with such a smart, reliable, and unflaggingly cordial person. You have been so reliable, efficient, and great to work with.</p>
+          </div>
+          <div class="testimonial-client">
+            <div class="photo"> </div>
+            <p>Publications Director</p>
+            <p>UC Berkeley Art Museum and Pacific Film Archive</p>
+          </div>
+        </div>
+
+        <div class="large-8 medium-8  small-12  columns testimonial">
+          <div class="quote">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ultrices, elit sed faucibus pharetra, diam mauris bibendum orci, sit amet ullamcorper purus dui sit amet augue. Donec aliquet diam ut neque mattis, eu tristique sem rutrum.  </p>
+          </div>
+          
+        </div>
+      </div>
+      </div>              
+            
+
+
+    <!-- end Testimonials -->
